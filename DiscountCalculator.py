@@ -1,3 +1,5 @@
+#This is a file which calculates a discont for a store based off of a range of factors including age, education status and name.
+
 name = input("What is your name? ")
 
 student_str = input("Are you a student [y/n]? ")
